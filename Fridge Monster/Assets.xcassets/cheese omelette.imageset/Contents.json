@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-lloyd-mitchel-guanzon-242484800-12310569.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
